@@ -1,5 +1,11 @@
 #!/bin/bash
-
+##############
+##
+#About: To list the users who have read access to github repo
+#Author: Aman
+#Date: 09/21/2025
+#Version: 1
+##############
 #Usage: ./list_read_access.sh <owner> <repo> <username> <token>
 REPO_OWNER=$1
 REPO_NAME=$2
